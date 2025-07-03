@@ -1,0 +1,5 @@
+customer_id,State,number_of_orders,spending_flag,Region,activity_flag
+1,California,10,High Spender,West,Active
+3,Texas,7,High Spender,South,Active
+5,Florida,15,High Spender,South,Active
+7,Washington,8,High Spender,West,Active

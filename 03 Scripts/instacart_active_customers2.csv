@@ -1,0 +1,9 @@
+customer_id,State,number_of_orders,spending_flag,Region,activity_flag
+1,California,10,High Spender,West,Active
+2,New York,3,Low Spender,Northeast,Low Activity
+3,Texas,7,High Spender,South,Active
+4,Ohio,2,Low Spender,Midwest,Low Activity
+5,Florida,15,High Spender,South,Active
+6,Illinois,4,Low Spender,Midwest,Low Activity
+7,Washington,8,High Spender,West,Active
+8,Pennsylvania,1,Low Spender,Northeast,Low Activity
